@@ -6,12 +6,6 @@ import Icon from '../Icon/Icon';
 import IconButton from '../IconButton/IconButton';
 import { iconVariants } from '../Icon/icon-variants'
 
-// avatar={
-    //   <Avatar uxpId="Avatar-1" sx={{ bgcolor: 'blue' }}>
-    //     R
-    //   </Avatar>
-    // }
-
 function CardHeader(props) {
     return (
         <CardHeaderM 
